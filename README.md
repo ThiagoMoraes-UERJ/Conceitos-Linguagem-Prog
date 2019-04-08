@@ -1,6 +1,10 @@
 # Conceitos-Linguagem-Prog(UERJ)
 
+Disciplina Ministrada  pelo Prof. João Miguel T. D. Tien
+
+
 Site  da Disciplina  (https://sites.google.com/site/aulastien/aulastien-191/clingprog191)
+
 
 # Avaliações
 24/04 Teor Avaliação P1  
